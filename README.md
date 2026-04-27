@@ -44,7 +44,7 @@ Coolors
 
 🔗 Prototype
 
-https://www.figma.com/design/XRCx77MMvLkI5aPC37HDKx/LEGALPARTNERS?node-id=26-2666&t=XK3ae124QdT20EBq-1
+https://www.figma.com/proto/XRCx77MMvLkI5aPC37HDKx/LEGALPARTNERS?node-id=26-2666&t=XK3ae124QdT20EBq-1
 
 🚀 Outcome
 Better user experience
